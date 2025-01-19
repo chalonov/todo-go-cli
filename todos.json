@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Comprar leche",
+        "Completed": true,
+        "CreatedAt": "2024-12-29T20:04:42.0258377-05:00",
+        "CompletedAt": "2024-12-29T20:04:42.0258377-05:00"
+    },
+    {
+        "Title": "Comprar pan",
+        "Completed": false,
+        "CreatedAt": "2024-12-29T20:04:42.0258377-05:00",
+        "CompletedAt": null
+    },
+    {
+        "Title": "Sacar la basura",
+        "Completed": true,
+        "CreatedAt": "2024-12-30T08:21:35.0040052-05:00",
+        "CompletedAt": "2024-12-30T08:29:25.9061656-05:00"
+    },
+    {
+        "Title": "Sacar la basura otra vez",
+        "Completed": false,
+        "CreatedAt": "2024-12-30T08:28:33.2740422-05:00",
+        "CompletedAt": null
+    }
+]
